@@ -1,0 +1,13 @@
+.inforM {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  padding: 15px;
+}
+.image {
+  width: 15px;
+  height: 15px;
+}
